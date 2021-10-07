@@ -1,0 +1,41 @@
+section{
+    max-width:  70rem;
+}
+ .banner__caja1{
+    width: 68rem;
+     
+}
+.banner-login h2 {
+    margin-right: 35rem;
+}
+.imgaen img{
+    width: 68rem;
+}
+.cajas{
+    width: 65rem;
+}
+
+/********************/
+.formulario__label {
+    font-size: 2rem;  
+    margin-bottom: 5rem;
+}
+.formulario__label img{
+    margin: 3.5rem 0rem 0rem 27rem;
+}
+.cajas2{
+    width: 66rem;
+
+    top: 40rem;
+}
+.formulario2 {
+    width: 62rem;
+    margin-top: 10rem;
+}
+.formulario__label2 {
+    font-size: 2rem;
+    margin-bottom: 5rem;
+}
+.formulario__label2 img{
+    margin: 3.5rem 0rem 0rem 60.5rem;
+}

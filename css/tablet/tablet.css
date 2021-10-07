@@ -1,0 +1,79 @@
+section{
+    max-width:  60rem;
+}
+.flecha{
+    width: 2rem;
+    margin-top: 1rem;
+}
+ .banner__caja1{
+    width: 58rem;
+}
+.banner-login h2 {
+    font-size: 4rem;
+    margin-right: 25rem;
+}
+.banner__year{
+    width: 12rem;
+    height: 4rem;
+
+    font-size: 2rem;
+}
+.imgaen img{
+    width: 58rem;
+}
+.banner__year img{
+    width: 2rem;
+}
+.cajas{
+    width: 56rem;
+    height: 11.5rem;
+
+    top: 22rem;
+}
+.cajas__camara div{
+    width: 9rem;
+    height: 9rem;
+    
+}
+.cajas h2{
+    font-size: var(--size-h2);
+    margin-right: 22rem;
+}
+.cajas h3{
+    font-size: var(--size-h3);
+}
+.cajas img{
+    width: 3rem;
+    margin: 2rem;
+}
+/********************/
+.formulario__label {
+    font-size: 2.5rem;  
+    margin-bottom: 5rem;
+}
+.formulario__label img{
+    width: 2rem;
+    position: absolute;
+  /*  margin: 2.5rem 0rem 0rem 14.5rem;*/
+    margin: 3.5rem 0rem 0rem 23rem;
+}
+.cajas2{
+    width: 56rem;
+    height: auto;
+
+    top: 35rem;
+}
+.formulario2 {
+    width: 54rem;
+    margin-top: 9rem;
+}
+.formulario__label2 {
+    font-size: 2.5rem;
+    margin-bottom: 5rem;
+}
+.formulario__label2 img{
+    width: 2rem;
+    height: 1.6;
+ 
+    margin: 3.5rem 0rem 0rem 51.2rem;
+}
